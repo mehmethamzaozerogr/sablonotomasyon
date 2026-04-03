@@ -1,0 +1,4 @@
+{
+  "/(studio)/templates/[templateId]/page": "app/(studio)/templates/[templateId]/page.js",
+  "/(studio)/dashboard/page": "app/(studio)/dashboard/page.js"
+}
